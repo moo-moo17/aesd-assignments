@@ -27,5 +27,5 @@ bool this_function_returns_false()
  */
 const char *my_username()
 {
-    return moo-moo17;
+    return "moo-moo17";
 }
